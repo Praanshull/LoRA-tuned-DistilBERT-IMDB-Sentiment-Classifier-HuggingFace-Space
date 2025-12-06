@@ -1,0 +1,22 @@
+# Ignore model weights
+models/
+checkpoints/
+logs/
+*.safetensors
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store

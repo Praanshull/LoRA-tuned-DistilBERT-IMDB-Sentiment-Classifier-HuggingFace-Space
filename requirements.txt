@@ -1,0 +1,10 @@
+transformers==4.36.2
+torch
+accelerate
+peft
+gradio==4.16.0
+shap
+matplotlib
+scikit-learn
+numpy
+
