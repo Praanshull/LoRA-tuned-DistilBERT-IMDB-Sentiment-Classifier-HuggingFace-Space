@@ -18,7 +18,7 @@ https://huggingface.co/spaces/Praanshull/sentiment-analyzer-app
 The fine-tuned model is hosted separately on Hugging Face:
 
 ➡️ **Model Repo:**  
-https://huggingface.co/Praanshull/sentiment-analyzer-model
+https://huggingface.co/Praanshull/sentiment-analyzer-app
 
 This project automatically loads the model via:
 
